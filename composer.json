@@ -1,0 +1,13 @@
+{
+    "name": "fauzanmaulana/tugaslibrary",
+    "description": "untuk belajar composer",
+    "authors": [
+        {
+            "name": "fauzanmaulana",
+            "email": "fauzanfm735@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
